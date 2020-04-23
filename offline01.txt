@@ -1,0 +1,59 @@
+    1  sudo apt-get install open-vm-tools
+    2  sudo apt-get install open-vm-tools-desktop
+    3  exit
+    4  shutdown -h 0
+    5  halt
+    6  exit
+    7  ls /etc/
+    8  apt-get update
+    9  sudo su root
+   10  whoami
+   11  logoff
+   12  whoami
+   13  shutdown -h 0
+   14  pwd
+   15  ls -lrt
+   16  whoami
+   17  ls
+   18  ls -l
+   19  tree
+   20  vim
+   21  sudo apt-get install vim
+   22  sudo apt install vim
+   23  git
+   24  sudo apt install git
+   25  git
+   26  git status
+   27  ls -lrt
+   28  ls -lt
+   29  exit
+   30  whoami
+   31  time
+   32  date
+   33  git config
+   34  gitconfig --global user.name "sridharxs"
+   35  git config --global user.name "sridharxs"
+   36  git config --global user.email "sridharxs@gmail.com"
+   37  mkdir ubuntu-git-rep
+   38  ls -lrt
+   39  cd ubuntu-git-rep
+   40  cd ..
+   41  mv ubuntu-git-rep ubuntu-gitrep
+   42  ls -lrt
+   43  cd ubuntu-gitrep
+   44  mkdir ubuntu-gitrep-proj01
+   45  ls -lrt
+   46  cd ubuntu-gitrep-proj01
+   47  touch offline01.txt offline02.txt offline03.txt
+   48  ls -lrt
+   49  ls -lart
+   50  cd ..
+   51  cd ubuntu-gitrep
+   52  git init
+   53  ls -lrt
+   54  ls -lart
+   55  cd ubuntu-gitrep-proj01
+   56  ls -lart
+   57  git init
+   58  ls -lart
+   59  history > offline01.txt
