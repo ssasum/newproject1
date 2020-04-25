@@ -57,3 +57,4 @@
    57  git init
    58  ls -lart
    59  history > offline01.txt
+-------------------------------------------------- this is new bottom of the file -----------------------------------------
